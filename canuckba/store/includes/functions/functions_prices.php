@@ -1383,7 +1383,8 @@ function zen_check_promotion_code() {
   "clubcaledon",
   "bujakbadminton",
   "carletonuniversity",
-  "happyholidays"      
+  "happyholidays",
+  "monthlyspecial"          
   );
 
   foreach ($codes as $code) {

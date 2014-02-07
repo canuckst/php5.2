@@ -1401,7 +1401,8 @@ function zen_check_promotion_code() {
   "NVVIP",
   "velocity",
   "VBCVIP",
-  "happyholidays"    
+  "happyholidays",
+  "monthlyspecial"        
   );
 
   foreach ($codes as $code) {

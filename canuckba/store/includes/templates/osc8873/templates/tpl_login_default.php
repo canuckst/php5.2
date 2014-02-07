@@ -30,7 +30,7 @@
 
 <?php 
 if (!isset($_SESSION['promotion_products']) || $_SESSION['promotion_products'] == '') {
-  $_SESSION['promotion_products'] = 'happyholidays';
+  $_SESSION['promotion_products'] = 'monthlyspecial';
 }
 ?>
 
