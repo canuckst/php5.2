@@ -71,10 +71,10 @@
 // define our database connection
   define('DB_TYPE', 'mysql');
   define('DB_PREFIX', '');
-  define('DB_SERVER', 'mysql.oyou.com');
-  define('DB_SERVER_USERNAME', 'storebadminton');
+  define('DB_SERVER', 'localhost');
+  define('DB_SERVER_USERNAME', 'canuckst_badminton');
   define('DB_SERVER_PASSWORD', 'longxia1!');
-  define('DB_DATABASE', 'storebadminton');
+  define('DB_DATABASE', 'canuckst_badminton');
   define('USE_PCONNECT', 'false');
   define('STORE_SESSIONS', 'db');
   // for STORE_SESSIONS, use 'db' for best support, or '' for file-based storage
